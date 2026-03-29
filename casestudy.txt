@@ -1,9 +1,0 @@
-Case Study: Phishing Attack
-
-Phishing is a type of cybercrime where attackers trick individuals into revealing sensitive information such as passwords, bank details, or OTPs by pretending to be a trustworthy entity. This crime usually happens through emails, SMS, or fake websites.
-
-A typical phishing attack occurs step-by-step. First, the attacker sends a message that appears to be from a legitimate source like a bank or a popular company. The message often creates urgency, such as claiming that the user’s account will be blocked. Next, the victim is asked to click on a link, which leads to a fake website that looks identical to the real one. When the victim enters their login details or OTP, the attacker captures this information and uses it for fraud.
-
-College students and less tech-aware users are common targets because they may not always verify links or messages carefully. The consequences of phishing can be severe, including financial loss, identity theft, and unauthorized access to personal accounts.
-
-This case highlights the importance of being cautious while clicking on links and sharing personal information online.
